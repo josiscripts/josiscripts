@@ -36,20 +36,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-> ⭐ Una selección de proyectos que representan mi aprendizaje actual
-
-- **📘 Student Manager App (Java + JSON)**  
-  Sistema CRUD para gestionar estudiantes y cursos, almacenando datos en archivos JSON.
-
-- **📝 Notepad Web (HTML/CSS/JS)**  
-  Mini aplicación web con autoguardado y modo oscuro.
-
-- **🔍 Phone Lookup Tool (Java + HashSet)**  
-  Búsqueda de alto rendimiento utilizando estructuras de datos optimizadas.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 | ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josiscripts&show_icons=true&theme=tokyonight) | ![Racha de contribuciones](https://streak-stats.demolab.com?user=josiscripts&theme=tokyonight) |
