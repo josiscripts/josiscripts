@@ -1,6 +1,6 @@
 <!-- 🧠 perfil profesional de github para josiscripts -->
 
-<img src="assets/img_banner.jpeg" alt="banner de josiscripts" width="100%">
+<img src="assets/img_banner.jpeg" alt="banner de josiscripts" width="50%">
 
 <h2 align="center">👋 ¡Hola! Soy <strong>josiscripts</strong></h2>
 
