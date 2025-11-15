@@ -14,7 +14,7 @@
 ---
 
 ## 🧠 Sobre mí
-- 🎓 Actualmente estudio *Desarrollo de Aplicaciones Multiplataforma (DAM)* en **Prometeo by ThePower**
+- 🎓 Desarrollador de Aplicaciones Multiplataforma
 - 🌱 Aprendiendo **Java, Angular, MySQL, HTML, CSS, JavaScript y Git**
 - 🛠 Construyendo proyectos para fortalecer mis habilidades de backend y frontend
 - 🧩 Abierto a colaboraciones y contribuciones a proyectos open-source
