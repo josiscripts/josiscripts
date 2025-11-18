@@ -26,12 +26,12 @@
 
 ### Lenguajes y frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,angular,git,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,angular,git,mysql" />
 </p>
 
 ### Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,github" />
 </p>
 
 ---
