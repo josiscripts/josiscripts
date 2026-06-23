@@ -7,7 +7,7 @@
 <h2 align="center">👋 ¡Hola! Soy <strong>josiscripts</strong></h2>
 
 <p align="center">
-💻 Desarrollador Full Stack en formación | Java | Angular | HTML | CSS | JavaScript  
+💻 Desarrollador Full Stack | Java | Angular | HTML | CSS | JavaScript  
 🌱 Apasionado por el código limpio y la creación de proyectos útiles
 </p>
 
